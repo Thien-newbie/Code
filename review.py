@@ -1,7 +1,7 @@
 a = input()
 print("Hello", a)
 age = int(input())
-if age < 5:
-    print('Your cat is young')
+if age < 18:
+    print('You are young')
 else:
-    print('Your cat is old')
+    print('You are old')
